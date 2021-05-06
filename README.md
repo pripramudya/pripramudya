@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pripramudya
 - 🌱 I’m currently learning javascript and golang
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: pripramudya.com
 
 <!---
